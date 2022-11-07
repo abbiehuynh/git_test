@@ -1,0 +1,3 @@
+Hello World!
+I am adding text to add this to the staging area
+Hope this works!
